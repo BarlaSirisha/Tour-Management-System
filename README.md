@@ -83,5 +83,5 @@ Contributions are welcome! Here's how you can contribute:
 
  📜 License: This project is licensed under the MIT License.
 
-👩‍💻 Author:Developed by Deekshitha Madugula
+👩‍💻 Author:Developed by Barla Sirisha
 
